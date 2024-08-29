@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Iniciar Sesión</h1>
+    
     <router-view />  <!-- Aquí se renderizarán los componentes según la ruta -->
   </div>
 </template>
